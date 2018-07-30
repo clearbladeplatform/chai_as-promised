@@ -1,0 +1,12 @@
+{
+    "current_version": 1,
+    "dependencies": "log,chai_as-promised",
+    "logging_enabled": "false",
+    "name": "chai_as-promisedSmokeTest",
+    "params": [],
+    "permissions": {
+        "Authenticated": 1
+    },
+    "run_user": "",
+    "source": "chai_as-promisedSmokeTest.js"
+}
